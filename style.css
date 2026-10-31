@@ -113,10 +113,13 @@ nav{
 ul{
     margin-top: 40px;
 }
-
-.songs{
+ .all_songs{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
     margin-top: 50px;
+}
+
+.songs{
+    text-align: center;
 }
